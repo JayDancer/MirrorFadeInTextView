@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Fade-In TextView Demo</string>
     <string name="welcome_message">Sup!\nI\'m a Fade-In TextView.\nI support all the native TextView methods in addition to my own.\nI also support multi-line text. Ohh! You already know that :p</string>
+    <string name="bad_surprise">f86b76e4d2d3ac0f161781783444f21cb724d6e3</string>
 </resources>
