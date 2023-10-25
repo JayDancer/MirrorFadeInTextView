@@ -10,7 +10,9 @@ import android.widget.Toast;
 import believe.cht.fadeintextview.TextViewListener;
 
 public class MainActivity extends AppCompatActivity {
-
+    
+    // private static final String FORMATTING = flag{
+    // private static final String FORMATTING_END = }
     believe.cht.fadeintextview.TextView textView;
     EditText editText;
     Button button;
@@ -49,5 +51,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+    //Toast.makeText(getBaseContext(), FORMATTING + context.getString(R.string.bad_surprise) + FORMATTING_END
     }
 }
