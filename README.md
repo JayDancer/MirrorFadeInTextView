@@ -15,9 +15,9 @@ There are practically no limitations including multiline support. The library al
 
 ### Gradle
 
-Step 1. We ran out of time, so we couldn't make sure everything in this repo was okay. 
-Step 2. We also couldn't fully implement it in our app, so nothing bad will ever happen. 
-Step 3. Probably. It's still a dependency.
+- Step 1. We ran out of time, so we couldn't make sure everything in this repo was okay. 
+- Step 2. We also couldn't fully implement it in our app, so nothing bad will ever happen. 
+- Step 3. Probably. It's still a dependency.
 
 ## License
 
